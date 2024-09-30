@@ -3,7 +3,7 @@
 
   ## Description
 
-    A sequalize project relating to the back-end of a consumer goods business with sql models of products, tags and categories.
+    A sequelize back-end project of a consumer goods business with sql models of products, tags and categories.
 
 
   ## Table of Contents 
@@ -24,23 +24,23 @@
 
   ### Video Walkthrough
   
-  [Click Here]()
+  [Click Here](https://drive.google.com/file/d/1JaxpYeQkCtKFfZAoPBYBZQ8zhaD0rvxN/view?usp=sharing)
   
   ## Screenshots
 
     This is get results from localhost:3001/api/categories/.
   ![A Screenshot of the GET request](./assets/get_categories.png)
 
-    This is get results from localhost:3001/api/categories/2.
+    This is get results from localhost:3001/api/categories/3.
   ![A Screenshot of the GET request with a param](./assets/get_one_categories.png)
 
-    This is post results from localhost:3001/api/categories/ with a JSON body of category_name: Undergarments.
+    This is post results from localhost:3001/api/categories/ with a JSON body of category_name: Body Pillows.
   ![A Screenshot of the POST request](./assets/post.png)
 
-    This is put results from localhost:3001/api/categories/6 with a JSON body of category_name: Underwear.
+    This is put results from localhost:3001/api/categories/6 with a JSON body of category_name: Yoyos.
   ![A Screenshot of the PUT request](./assets/put.png)
 
-    This is delete results from localhost:3001/api/categories/6.
+    This is delete results from localhost:3001/api/categories/7.
   ![A Screenshot of the DELETE request](./assets/delete.png)
 
   ## License 
